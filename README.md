@@ -3,7 +3,7 @@
 **Aspiring AI Engineer | Full Stack Developer | Data Analyst**
 📍 Kanpur, Uttar Pradesh | 📱 +91-8532955211 | 📧 [abhisheksharma12891@gmail.com](mailto:abhisheksharma12891@gmail.com)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/abhishek12891/) | 🐙 [GitHub](https://github.com/abhisheksharma12891) | 🌐 [Portfolio](https://www.google.com/search?q=YOUR_PORTFOLIO_LINK)
+🔗 [LinkedIn](https://www.linkedin.com/in/abhishek12891/) | 🐙 [GitHub](https://github.com/abhisheksharma12891) <!-- | 🌐 [Portfolio](https://www.google.com/search?q=YOUR_PORTFOLIO_LINK) -->
 
 ## 🚀 Professional Summary
 
@@ -23,7 +23,7 @@ Final-year Computer Science (AI-ML) undergraduate with a unique blend of **Full 
 
 ## 🏆 Projects
 
-### **1. Data Master 3D – AI-Powered Mentorship Platform** [(Live Link)](https://www.google.com/search?q=VERCEL_APP_LINK)
+<!-- ### **1. Data Master 3D – AI-Powered Mentorship Platform** [(Live Link)](https://www.google.com/search?q=VERCEL_APP_LINK)
 
 * **Tech Stack:** React.js, Firebase (Auth & DB), Google Gemini API, Tailwind CSS.
 
@@ -31,9 +31,9 @@ Final-year Computer Science (AI-ML) undergraduate with a unique blend of **Full 
 
 * **Key Features:** Integrated secure Google Login, real-time Project Board using Firestore, and an AI Mentor Chatbot for personalized career guidance.
 
-* **Impact:** Created a scalable architecture supporting role-based access (Student/Mentor) and a service marketplace.
+* **Impact:** Created a scalable architecture supporting role-based access (Student/Mentor) and a service marketplace. -->
 
-### **2. YouTube Sentiment Analysis Dashboard** [(Live Link)](https://www.google.com/search?q=STREAMLIT_APP_LINK)
+### **1. YouTube Sentiment Analysis Dashboard** [(Live Link)](https://yt-sentiment-app.streamlit.app/)
 
 * **Tech Stack:** Python, Streamlit, YouTube Data API v3, NLP (TextBlob).
 
@@ -43,7 +43,7 @@ Final-year Computer Science (AI-ML) undergraduate with a unique blend of **Full 
 
 * **Impact:** Helps content creators understand audience feedback instantly without reading thousands of comments.
 
-### **3. Real-Time Face Emotion Detector** [(GitHub Link)](https://www.google.com/search?q=GITHUB_REPO_LINK)
+### **2. Real-Time Face Emotion Detector** [(GitHub Link)](https://github.com/abhisheksharma12891/Face-Emotion-AI)
 
 * **Tech Stack:** Python, OpenCV, DeepFace, TensorFlow.
 
@@ -67,9 +67,7 @@ Final-year Computer Science (AI-ML) undergraduate with a unique blend of **Full 
 
 ### **Club Manager** | *Disha Club, PSIT Kanpur* | *(2023 – 24)*
 
-* Oversaw event planning, managed reports, and analyzed student participation data.
-
-* Led a team of volunteers to successfully execute college-level technical and cultural events.
+* Managed event reports, analyzed participation data, and led a team of volunteers
 
 ## 🎓 Education
 
@@ -81,10 +79,16 @@ Final-year Computer Science (AI-ML) undergraduate with a unique blend of **Full 
 
 ## 📜 Certifications
 
-* **Python 101 for Data Science** – Cognitive Class
+* **Python 101 for Data Science** - Cognitive Class - (Oct-2025)
 
-* **Data Analysis with Python** – Cognitive Class
+* **Data Analysis with Python** - Cognitive Class - (Nov-2025)
 
-* **SQL & DBMS** – Infosys Springboard
+* **HTML5 & CSS3, Python (OOPs) & DBMS (SQL)** - Infosys Springboard - (2024)
 
-* **MDCA** – Brain Server Computer &
+* **MDCA** - Brain Server Computer & Vocational Institute - (Jan-2021)
+
+* **CCC** - National Institute of Electronics & Information Technology (NIELIT) - (Dec-2020)
+
+## 🌟 Co-curricular Activities
+
+* Participated in expert lecture on **"Impact of Data Science and AI-ML on Industry Transformation"** (May 2025).
