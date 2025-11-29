@@ -11,7 +11,7 @@ Final-year Computer Science (AI-ML) undergraduate with a unique blend of **Full 
 
 ## 🛠️ Technical Skills
 
-* **Languages:** Python, JavaScript (ES6+), SQL, C++.
+* **Languages:** Python, JavaScript (ES6+), SQL, C.
 
 * **AI & Data Science:** NLP (TextBlob), Computer Vision (OpenCV, DeepFace), GenAI (Gemini API), Pandas, NumPy, Power BI.
 
